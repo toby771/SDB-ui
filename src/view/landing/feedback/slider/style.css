@@ -1,0 +1,29 @@
+.slick-slider button {
+  display: none !important;
+}
+
+.feedback-slider .slick-track {
+  display: flex;
+  align-items: center;
+}
+
+.feedback-slider .slick-slide {
+  transform: scale(0.8);
+  transition: all 0.4s ease-in-out;
+  padding: 40px 0;
+  opacity: 0.4;
+}
+
+.feedback-slider .slick-slide img {
+  max-width: 100%;
+  transition: all 0.4s ease-in-out;
+}
+
+.feedback-slider .slick-center {
+  transform: scale(1.1);
+  opacity: 1;
+}
+
+.feedback-slider .slider {
+  overflow: initial;
+}

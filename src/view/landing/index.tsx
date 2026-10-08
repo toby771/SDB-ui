@@ -1,0 +1,6 @@
+export * from './hero'
+export * from './about'
+export * from './skills'
+export * from './process'
+export * from './feedback'
+export * from './newest'
